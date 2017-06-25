@@ -11,8 +11,8 @@
 
 +++
 
-このスライドは、
-[GitPitch](https://gitpitch.com) のご提供で
+このスライドは、  
+[GitPitch](https://gitpitch.com) のご提供で  
 お送りしています。
 
 ---
